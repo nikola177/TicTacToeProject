@@ -27,13 +27,13 @@ Singleplayer game flow:
 
 * If number of clicked buttons are smaller than 3:
 
-     *If player had turn to start round then:
+     * If player had turn to start round then:
   
-     Depends on player's first move, bot plays some corner or middle or random button. Also there is some probability for decision making depends
-     on level.
+       Depends on player's first move, bot plays some corner or middle or random button. Also there is some probability for decision making depends
+       on level.
      
-     *If bot have turn to start round then:
-     Bot plays one random free button with method playToRandomFreeButton()
+     * If bot have turn to start round then:
+       Bot plays one random free button with method playToRandomFreeButton()
     
 
 Usefulness of the project:
@@ -44,6 +44,9 @@ Runing project:
 
 Just pull the code and run it.
 
+Youtube link preview:
+
+https://www.youtube.com/watch?v=eNyPWYorzNM&feature=youtu.be
 
 Communication:
 
